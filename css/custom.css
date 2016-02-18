@@ -56,6 +56,9 @@ a .img-responsive {
 }
 #footer .container .footer-block {
 }
+#container.pull-right {
+	text-align: center;
+}
 
 @media screen and (min-width:767px){
 }
